@@ -1,6 +1,6 @@
-## React Pokedex
+## React Pokedex App
 
-A mini-encyclopedia of Pokémon stats, types  and moves.
+A mini-encyclopedia of Pokémon stats and types.
 
 The following technologies were used for this sample application:
 
