@@ -17,3 +17,13 @@ The following technologies were used for this sample application:
 npm install
 npm start
 ```
+
+## Things to improve :
+
+Cards:
+
+![Alt text](https://github.com/kittii9797/pokedex-app/blob/main/1.png)
+
+Details info:
+
+![Alt text](https://github.com/kittii9797/pokedex-app/blob/main/2.png)
